@@ -1,3 +1,7 @@
+; versiune prezenta pe github
+; link: https://github.com/BogdanSoimu/TemaSMP
+
+
 .model small
 .stack 100h
 .data    
